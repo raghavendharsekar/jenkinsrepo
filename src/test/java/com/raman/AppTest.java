@@ -9,12 +9,8 @@ import org.junit.Test;
  */
 public class AppTest 
 {
-    /**
-     * Rigorous Test :-)
-     */
-    @Test
-    public void shouldAnswerWithTrue()
+    public static void main( string[] args )
     {
-        assertTrue( true );
+    	system.out.println( "changes are done by raman" );
     }
 }
