@@ -9,7 +9,7 @@ import org.junit.Test;
  */
 public class AppTest 
 {
-    public static void main( string[] args )
+    public static void main( String[] args )
     {
     	System.out.println( "things are done by raman" );
     }
